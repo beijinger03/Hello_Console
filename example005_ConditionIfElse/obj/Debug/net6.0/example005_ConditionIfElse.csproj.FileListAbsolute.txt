@@ -1,0 +1,15 @@
+/Users/dns/Desktop/test Git/examples/example005_ConditionIfElse/bin/Debug/net6.0/example005_ConditionIfElse
+/Users/dns/Desktop/test Git/examples/example005_ConditionIfElse/bin/Debug/net6.0/example005_ConditionIfElse.deps.json
+/Users/dns/Desktop/test Git/examples/example005_ConditionIfElse/bin/Debug/net6.0/example005_ConditionIfElse.runtimeconfig.json
+/Users/dns/Desktop/test Git/examples/example005_ConditionIfElse/bin/Debug/net6.0/example005_ConditionIfElse.dll
+/Users/dns/Desktop/test Git/examples/example005_ConditionIfElse/bin/Debug/net6.0/example005_ConditionIfElse.pdb
+/Users/dns/Desktop/test Git/examples/example005_ConditionIfElse/obj/Debug/net6.0/example005_ConditionIfElse.csproj.AssemblyReference.cache
+/Users/dns/Desktop/test Git/examples/example005_ConditionIfElse/obj/Debug/net6.0/example005_ConditionIfElse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dns/Desktop/test Git/examples/example005_ConditionIfElse/obj/Debug/net6.0/example005_ConditionIfElse.AssemblyInfoInputs.cache
+/Users/dns/Desktop/test Git/examples/example005_ConditionIfElse/obj/Debug/net6.0/example005_ConditionIfElse.AssemblyInfo.cs
+/Users/dns/Desktop/test Git/examples/example005_ConditionIfElse/obj/Debug/net6.0/example005_ConditionIfElse.csproj.CoreCompileInputs.cache
+/Users/dns/Desktop/test Git/examples/example005_ConditionIfElse/obj/Debug/net6.0/example005_ConditionIfElse.dll
+/Users/dns/Desktop/test Git/examples/example005_ConditionIfElse/obj/Debug/net6.0/refint/example005_ConditionIfElse.dll
+/Users/dns/Desktop/test Git/examples/example005_ConditionIfElse/obj/Debug/net6.0/example005_ConditionIfElse.pdb
+/Users/dns/Desktop/test Git/examples/example005_ConditionIfElse/obj/Debug/net6.0/example005_ConditionIfElse.genruntimeconfig.cache
+/Users/dns/Desktop/test Git/examples/example005_ConditionIfElse/obj/Debug/net6.0/ref/example005_ConditionIfElse.dll

@@ -1,0 +1,15 @@
+/Users/dns/Desktop/test Git/examples/example007_Magic/bin/Debug/net6.0/example007_Magic
+/Users/dns/Desktop/test Git/examples/example007_Magic/bin/Debug/net6.0/example007_Magic.deps.json
+/Users/dns/Desktop/test Git/examples/example007_Magic/bin/Debug/net6.0/example007_Magic.runtimeconfig.json
+/Users/dns/Desktop/test Git/examples/example007_Magic/bin/Debug/net6.0/example007_Magic.dll
+/Users/dns/Desktop/test Git/examples/example007_Magic/bin/Debug/net6.0/example007_Magic.pdb
+/Users/dns/Desktop/test Git/examples/example007_Magic/obj/Debug/net6.0/example007_Magic.csproj.AssemblyReference.cache
+/Users/dns/Desktop/test Git/examples/example007_Magic/obj/Debug/net6.0/example007_Magic.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dns/Desktop/test Git/examples/example007_Magic/obj/Debug/net6.0/example007_Magic.AssemblyInfoInputs.cache
+/Users/dns/Desktop/test Git/examples/example007_Magic/obj/Debug/net6.0/example007_Magic.AssemblyInfo.cs
+/Users/dns/Desktop/test Git/examples/example007_Magic/obj/Debug/net6.0/example007_Magic.csproj.CoreCompileInputs.cache
+/Users/dns/Desktop/test Git/examples/example007_Magic/obj/Debug/net6.0/example007_Magic.dll
+/Users/dns/Desktop/test Git/examples/example007_Magic/obj/Debug/net6.0/refint/example007_Magic.dll
+/Users/dns/Desktop/test Git/examples/example007_Magic/obj/Debug/net6.0/example007_Magic.pdb
+/Users/dns/Desktop/test Git/examples/example007_Magic/obj/Debug/net6.0/example007_Magic.genruntimeconfig.cache
+/Users/dns/Desktop/test Git/examples/example007_Magic/obj/Debug/net6.0/ref/example007_Magic.dll

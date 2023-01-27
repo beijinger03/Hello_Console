@@ -1,0 +1,15 @@
+/Users/dns/Desktop/test Git/examples/example008_IntroMethod/obj/Debug/net6.0/example008_IntroMethod.csproj.AssemblyReference.cache
+/Users/dns/Desktop/test Git/examples/example008_IntroMethod/obj/Debug/net6.0/example008_IntroMethod.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dns/Desktop/test Git/examples/example008_IntroMethod/obj/Debug/net6.0/example008_IntroMethod.AssemblyInfoInputs.cache
+/Users/dns/Desktop/test Git/examples/example008_IntroMethod/obj/Debug/net6.0/example008_IntroMethod.AssemblyInfo.cs
+/Users/dns/Desktop/test Git/examples/example008_IntroMethod/obj/Debug/net6.0/example008_IntroMethod.csproj.CoreCompileInputs.cache
+/Users/dns/Desktop/test Git/examples/example008_IntroMethod/bin/Debug/net6.0/example008_IntroMethod
+/Users/dns/Desktop/test Git/examples/example008_IntroMethod/bin/Debug/net6.0/example008_IntroMethod.deps.json
+/Users/dns/Desktop/test Git/examples/example008_IntroMethod/bin/Debug/net6.0/example008_IntroMethod.runtimeconfig.json
+/Users/dns/Desktop/test Git/examples/example008_IntroMethod/bin/Debug/net6.0/example008_IntroMethod.dll
+/Users/dns/Desktop/test Git/examples/example008_IntroMethod/bin/Debug/net6.0/example008_IntroMethod.pdb
+/Users/dns/Desktop/test Git/examples/example008_IntroMethod/obj/Debug/net6.0/example008_IntroMethod.dll
+/Users/dns/Desktop/test Git/examples/example008_IntroMethod/obj/Debug/net6.0/refint/example008_IntroMethod.dll
+/Users/dns/Desktop/test Git/examples/example008_IntroMethod/obj/Debug/net6.0/example008_IntroMethod.pdb
+/Users/dns/Desktop/test Git/examples/example008_IntroMethod/obj/Debug/net6.0/example008_IntroMethod.genruntimeconfig.cache
+/Users/dns/Desktop/test Git/examples/example008_IntroMethod/obj/Debug/net6.0/ref/example008_IntroMethod.dll

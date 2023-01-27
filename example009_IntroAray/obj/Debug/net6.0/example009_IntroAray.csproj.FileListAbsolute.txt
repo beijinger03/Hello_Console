@@ -1,0 +1,15 @@
+/Users/dns/Desktop/test Git/examples/example009_IntroAray/obj/Debug/net6.0/example009_IntroAray.csproj.AssemblyReference.cache
+/Users/dns/Desktop/test Git/examples/example009_IntroAray/obj/Debug/net6.0/example009_IntroAray.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dns/Desktop/test Git/examples/example009_IntroAray/obj/Debug/net6.0/example009_IntroAray.AssemblyInfoInputs.cache
+/Users/dns/Desktop/test Git/examples/example009_IntroAray/obj/Debug/net6.0/example009_IntroAray.AssemblyInfo.cs
+/Users/dns/Desktop/test Git/examples/example009_IntroAray/obj/Debug/net6.0/example009_IntroAray.csproj.CoreCompileInputs.cache
+/Users/dns/Desktop/test Git/examples/example009_IntroAray/bin/Debug/net6.0/example009_IntroAray
+/Users/dns/Desktop/test Git/examples/example009_IntroAray/bin/Debug/net6.0/example009_IntroAray.deps.json
+/Users/dns/Desktop/test Git/examples/example009_IntroAray/bin/Debug/net6.0/example009_IntroAray.runtimeconfig.json
+/Users/dns/Desktop/test Git/examples/example009_IntroAray/bin/Debug/net6.0/example009_IntroAray.dll
+/Users/dns/Desktop/test Git/examples/example009_IntroAray/bin/Debug/net6.0/example009_IntroAray.pdb
+/Users/dns/Desktop/test Git/examples/example009_IntroAray/obj/Debug/net6.0/example009_IntroAray.dll
+/Users/dns/Desktop/test Git/examples/example009_IntroAray/obj/Debug/net6.0/refint/example009_IntroAray.dll
+/Users/dns/Desktop/test Git/examples/example009_IntroAray/obj/Debug/net6.0/example009_IntroAray.pdb
+/Users/dns/Desktop/test Git/examples/example009_IntroAray/obj/Debug/net6.0/example009_IntroAray.genruntimeconfig.cache
+/Users/dns/Desktop/test Git/examples/example009_IntroAray/obj/Debug/net6.0/ref/example009_IntroAray.dll
